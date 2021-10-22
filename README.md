@@ -33,24 +33,20 @@ or <a href="mailto: saintbocill86@gmail.com"><b>email</b></a> me
 
 Follow me around the web:</i><br>
 
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-  <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
-  <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
-  <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
+  <a target="_blank" href="https://www.instagram.com/romi_muh05/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
+  <a target="_blank" href="https://www.facebook.com/Romi Muharam/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
+  <a target="_blank" href="https://wa.me/14158912734/">🇼‌🇭‌🇦‌🇹‌🇸‌🇦‌🇵‌🇵‌​</a>
 
-<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://www.instagram.com/romi_muh05" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/Romi Muharam" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://wa.me/14158912734/" target="_blank"><img src="https://freepngimg.com/thumb/whatsapp/108302-badge-whatsapp-verified-png-download-free.png></a>
 
 </div>
 
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
+<!-- [🇼‌🇭‌🇦‌🇹‌🇸‌🇦‌🇵‌🇵‌​](https://wa.me/14158912734/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/romi_muh05/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/Romi MuhaMuharam/)  -->
 
 <!--
-**ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rmxyz/Rmxyz** is a ✨ _special_ ✨
 
 Here are some ideas to get you started:
 
@@ -65,6 +61,6 @@ Here are some ideas to get you started:
 -->
 
 -----
-Credits: [ABSphreak](https://github.com/ABSphreak)
+Credits: [Rmxyz](https://github.com/Rmxyz)
 
-Last Edited on: 30/08/2020
+Last Edited on: 31/12/2031
