@@ -32,8 +32,8 @@ or <a href="mailto: saintbocill86@gmail.com"><b>email</b></a> me
 
 Follow me around the web:</i><br>
 
-  <a target="_blank" href="https://www.instagram.com/romi_muh05/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-  <a target="_blank" href="https://www.facebook.com/Romi Muharam/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
+  <a target="_blank" href="https://www.instagram.com/romi_muh05/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> 
+  <a target="_blank" href="https://www.facebook.com/Romi Muharam/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> 
   <a target="_blank" href="https://wa.me/14158912734/">🇼‌🇭‌🇦‌🇹‌🇸‌🇦‌🇵‌🇵‌​</a>
 
 <a href="https://www.instagram.com/romi_muh05" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
