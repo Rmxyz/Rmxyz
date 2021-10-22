@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://s.kaskus.id/images/2013/06/08/5506521_20130608071226.gif" alt="Welcome!" width="300"/>
+<img src="https://thumbs.gfycat.com/CraftyBlaringErmine.webp" alt="Welcome!" width="300"/>
 
 </div>
 
