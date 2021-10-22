@@ -29,7 +29,7 @@ or <a href="mailto: saintbocill86@gmail.com"><b>email</b></a> me
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
-<Img src="https://gfycat.com/chiefmasculineamericanwarmblood"/>
+<Img src="https://thumbs.gfycat.com/ChiefMasculineAmericanwarmblood.webp"/>
 
 Follow me around the web:</i><br>
 
