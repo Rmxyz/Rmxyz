@@ -39,14 +39,14 @@ Follow me around the web:</i><br>
 
 <a href="https://www.instagram.com/romi_muh05" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/Romi Muharam" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://wa.me/14158912734/" target="_blank"><img src="https://freepngimg.com/thumb/whatsapp/108302-badge-whatsapp-verified-png-download-free.png></a>
+<a href="https://wa.me/14158912734/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 </div>
 
 <!-- [🇼‌🇭‌🇦‌🇹‌🇸‌🇦‌🇵‌🇵‌​](https://wa.me/14158912734/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/romi_muh05/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/Romi MuhaMuharam/)  -->
 
 <!--
-**Rmxyz/Rmxyz** is a ✨ _special_ ✨
+**Rmxyz/Rmxyz** is a ✨ _special_ ✨.
 
 Here are some ideas to get you started:
 
