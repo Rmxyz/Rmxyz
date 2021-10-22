@@ -29,7 +29,8 @@ or <a href="mailto: saintbocill86@gmail.com"><b>email</b></a> me
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
-<Img src="https://gfycat.com/chiefmasculineamericanwarmblood" width="300"/>
+<Img src="https://gfycat.com/chiefmasculineamericanwarmblood"/>
+
 Follow me around the web:</i><br>
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
